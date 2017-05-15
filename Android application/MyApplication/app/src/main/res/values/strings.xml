@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="menu_settings">Settings</string>string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="weather_prompt">Choose a weather</string>
+    <string-array name="weather">
+        <item>Clear Day</item>
+        <item>Wet and Cloudy Day</item>
+    </string-array>
+</resources>
